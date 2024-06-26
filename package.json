@@ -1,0 +1,11 @@
+{
+  "name": "createjsonfile",
+  "version": "1.0.0",
+  "description": "This is first file",
+  "main": "index.js",
+  "scripts": {
+    "test": "run"
+  },
+  "author": "Naushad Ahmad",
+  "license": "ISC"
+}
